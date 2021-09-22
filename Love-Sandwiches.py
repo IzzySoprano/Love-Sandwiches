@@ -17,10 +17,5 @@ sales = SHEET.worksheet('sales')
 data = sales.get_all_values()
 
 print(data)
-print("100")
-print("100")
-print("100")
-print("100")
-print("100")
-print("100")
-print("100")
+
+print(Test)
